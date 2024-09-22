@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/45ec226c-888a-4ae3-bfd1-c6382cb580b8)
 # Credit Risk Modeling Project
 
 ## Overview
